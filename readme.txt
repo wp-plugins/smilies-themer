@@ -32,20 +32,19 @@ Just take a look at any of the included themes to know how make your own.
 And if you make one, don’t forget to let me know, so I can add a link here.
 
 Current included themes are:
-Package	 								Author		 		Description
-WordPress Smilies 					Matt Read	 		The Default Wordpress smilies.
-Silk Smilies 								Ricardo González 	Silk smilies by FamFamFam
-Tango Smilies 							Ricardo González 	Smilies by Hylke Bons based on Tango Icon Theme
-Graemlins For Wordpress 			Kevin Cantrell	 	Extra Icons and Smilies for Wordpress.
-Julianus, a tribute to Julien 			Psykotik 				A Wordpress smilies packages.
-Kopete 									Matt Read 			The Default Kopete smilies.
-MSN Messenger Smilies 				James Noonan 		The Default MSN Messenger Smilies
-nyssajbrown.net Smilies - Green 	Nyssa J. Brown	 	Smilies for Wordpress.
-Nomicons - The Full Monty 			Norman Delhey 	Nomicons - The Full Monty
-Phoenity Smilies 						Robby Colvin 		Smilies based on Phoenity
-Santa Smilies 							Jason Sutherland 	A set of Santa smilies from Jason’s Smilies
-Yahoo Smilies 							Matt Read 			The Default Yahoo Smilies
-White Emoticons 						Ricardo González 	White Emoticons by Dirceu Veiga
+WordPress Smilies
+Silk Smilies						
+Tango Smilies		
+Graemlins For Wordpress
+Julianus, a tribute to Julien
+Kopete				
+MSN Messenger Smilies	
+nyssajbrown.net Smilies - Green
+Nomicons - The Full Monty
+Phoenity Smilies
+Santa Smilies				
+Yahoo Smilies		
+White Emoticons
 
 **Languages**
 
@@ -54,7 +53,7 @@ Currently, Smilies Themes supports the following languages:
     * English (en_US)
     * Spanish (es_ES)
 
-To collaborate, just download default.po at the plugin' homepage, translate it and send it to me. Thanks in advance.
+To collaborate, just download default.po at the plugin's homepage, translate it and send it to me. Thanks in advance.
 
 == Installation ==
 
