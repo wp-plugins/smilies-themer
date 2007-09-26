@@ -38,7 +38,7 @@ define('k_SMILIES_URL', get_settings('siteurl') .'/wp-content/plugins/smilies-th
 define('k_SMILIES_CONFIG_FILE', 'package-config.php');
 
 # Version constant
-define('k_SMILIES_VER', '0.2');
+define('k_SMILIES_VER', '0.3');
 
 # Plugin constant
 define('PluginURI', 'http://rick.jinlabs.com/code/smilies-themer/');
