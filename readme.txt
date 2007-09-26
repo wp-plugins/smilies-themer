@@ -61,6 +61,11 @@ Drop more-smilies folder into /wp-content/plugins/ and activate the plug in.
 
 == Version History ==
 
+0.3 - 2007/09/26
+
+    * Not Beta anymore
+    * Added Turkish translation. Thanks to Baris Unver (http://beyn.org)
+
 0.2 Beta - 2007/09/06
 
     * Fixed & arranged options page
