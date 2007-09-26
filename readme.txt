@@ -10,6 +10,8 @@ Smilies Themer allows you to use smilies (emoticons) themes (or packs) to replac
 
 Smilies Themer allows you to use smilies (emoticons) themes (or packs) to replace the wordpress default ones.
 
+View page plugin for more info.
+
 **Features**
 
     * Works (with WP 2.2)
@@ -52,6 +54,7 @@ Currently, Smilies Themes supports the following languages:
 
     * English (en_US)
     * Spanish (es_ES)
+    * Turkish  (tr_TR) - Thanks to Baris Unver (http://beyn.org)
 
 To collaborate, just download default.po at the plugin's homepage, translate it and send it to me. Thanks in advance.
 
