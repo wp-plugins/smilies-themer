@@ -23,60 +23,7 @@ View page plugin for more info.
 
 No user interaction needed. Just activate the plugin, select a smilies theme and profit!
 
-**Themes**
-
-A theme is just a set of emoticons and his corresponding image.
-
-You can add any image, any emoticon, mix them, whatever you want.
-
-Just take a look at any of the included themes to know how make your own.
-
-And if you make one, don’t forget to let me know, so I can add a link here.
-
-Current included themes are:
-WordPress Smilies
-Silk Smilies						
-Tango Smilies		
-Graemlins For Wordpress
-Julianus, a tribute to Julien
-Kopete				
-MSN Messenger Smilies	
-nyssajbrown.net Smilies - Green
-Nomicons - The Full Monty
-Phoenity Smilies
-Santa Smilies				
-Yahoo Smilies		
-White Emoticons
-
-**Languages**
-
-Currently, Smilies Themes supports the following languages:
-
-    * English (en_US)
-    * Spanish (es_ES)
-    * Turkish  (tr_TR) - Thanks to Baris Unver (http://beyn.org)
-
-To collaborate, just download default.po at the plugin's homepage, translate it and send it to me. Thanks in advance.
-
-== Installation ==
-
-Drop more-smilies folder into /wp-content/plugins/ and activate the plug in.
-
-== Version History ==
-
-0.3 - 2007/09/26
-
-    * Not Beta anymore
-    * Added Turkish translation. Thanks to Baris Unver (http://beyn.org)
-
-0.2 Beta - 2007/09/06
-
-    * Fixed & arranged options page
-    * Added multilingual support
-
-0.1 Beta - 2007/09/02
-
-    * Initial Release
+For more info (themes, translations, etc.) visit the plugin homepage.
 
 **Credits**
 

@@ -2,7 +2,7 @@
 
 /* <WP plugin data>
  * Plugin Name:   Smilies Themer
- * Version:       0.3
+ * Version:       0.4
  * Plugin URI:    http://rick.jinlabs.com/code/smilies-themer/
  * Description:   Allows you to choose different smilies  themes. Based in More Smilies by <a href="http://www.mattread.com/">Matt Read</a>.
  * Author:        Ricardo Gonz&aacute;lez
@@ -38,10 +38,8 @@ define('k_SMILIES_URL', get_settings('siteurl') .'/wp-content/plugins/smilies-th
 define('k_SMILIES_CONFIG_FILE', 'package-config.php');
 
 # Version constant
-define('k_SMILIES_VER', '0.3');
 
 # Plugin constant
-define('PluginURI', 'http://rick.jinlabs.com/code/smilies-themer/');
 
 class smilies_themer
 {
@@ -173,23 +171,6 @@ class smilies_themer
 		$this->notice(1, '<strong>'. __('Options saved.', 'smilies-themer') .'</strong>');
 	}
 	
-	function getLastVersion($url) {	
-		if( function_exists('curl_init') ) {
-		// Curl is available so use it
-			$ch = curl_init($url);
-			curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-			$version = curl_exec($ch);
-			curl_close($ch);
-		} else if(function_exists('fopen')) {
-			// fopen is available so use it instead
-			$file = fopen($url, 'r');
-			$version = fgets($file);
-			fclose($file);
-		}
-
-		return $version;
-	}
-	
 	function options_page() {
 		//$this->load_textdomain();
 		load_plugin_textdomain('smilies-themer', "/wp-content/plugins/smilies-themer/locales/");
@@ -200,12 +181,6 @@ class smilies_themer
 			$this->notice(3, __('You need to check "convert emoticons" for this to work.', 'smilies-themer'));
 		}
 		
-		$lastVersion = $this->getLastVersion('http://code.jinlabs.com/update.php?plugin=smilies-themer');
-		$pURI = PluginURI;
-		if ($lastVersion > k_SMILIES_VER) {
-			$this->notice(3, printf(__("New version avaliable! <a href=\"%s\">Get %s release!</a>", 'smilies-themer'), $pURI, $lastVersion));
-		}
-
 		require('options-page.inc.php');
 	}
 	
