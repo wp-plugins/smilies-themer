@@ -23,7 +23,7 @@ View page plugin for more info.
 
 No user interaction needed. Just activate the plugin, select a smilies theme and profit!
 
-For more info (themes, translations, etc.) visit the plugin homepage.
+For more info (themes, translations, etc.) visit [the plugin homepage](http://rick.jinlabs.com/code/smilies-themer "Smilies Themer").
 
 **Credits**
 
