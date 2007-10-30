@@ -45,7 +45,7 @@ $wp_smilies = array(
 	':whistle:'  => 'whistling.png',
 	':whistling:'  => 'whistling.png',
 	':woot:'  => 'w00t.png',
-	':w00t:'  => 'whistling.png',
+	':w00t:'  => 'w00t.png',
 	':sleep:'  => 'sleeping.png',
 	':zzz:'  => 'sleeping.png',
 	'=]'  => 'sideways.png',
