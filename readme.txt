@@ -3,6 +3,7 @@ Tags: smilies, themes, emoticons
 Requires at least: 2.0
 Tested up to: 2.3
 Stable tag: trunk
+Donate link: http://rick.jinlabs.com/donate/
 
 Smilies Themer allows you to use smilies (emoticons) themes (or packs) to replace the wordpress default ones.
 
