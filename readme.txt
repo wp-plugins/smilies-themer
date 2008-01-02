@@ -15,7 +15,7 @@ View page plugin for more info.
 
 **Features**
 
-    * Works (with WP 2.2)
+    * Works (with WP 2.2+)
     * Compatible with More Smilies themes
     * Options page
     * Multilinguage support
