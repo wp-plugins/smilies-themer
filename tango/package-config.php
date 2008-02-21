@@ -59,10 +59,17 @@ $wp_smilies = array(
 	':\'-(('	=> 'face-depressed.png',
 	':-(('	=> 'face-depressed.png',
 	':(('	=> 'face-depressed.png',
-	':p'	=> 'face-silly.png',
-	':P'	=> 'face-silly.png',
-	':-p'	=> 'face-silly.png',
-	':-P'	=> 'face-silly.png'
+	':poke:'	=> 'face-throwup.png',
+	':love:'	=> 'face-love.png',	
+	':tired:'	=> 'face-tired.png',
+	':emotion:'	=> 'face-emotional.png',
+	':party:'	=> 'face-festive.png',
+  ':clown:'	=> 'face-funny.png',
+  'X('	=> 'face-furious.png',
+	':p'	=> 'face-naughty.png',
+	':P'	=> 'face-naughty.png',
+	':-p'	=> 'face-naughty.png',
+	':-P'	=> 'face-naughty.png'
 );
 
 ?>
