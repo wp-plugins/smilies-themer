@@ -2,7 +2,7 @@
 
 /* <WP plugin data>
  * Plugin Name:   Smilies Themer
- * Version:       0.5.2
+ * Version:       0.5.3
  * Plugin URI:    http://rick.jinlabs.com/code/smilies-themer/
  * Description:   Allows you to choose different smilies  themes. Based in More Smilies by <a href="http://www.mattread.com/">Matt Read</a>.
  * Author:        Ricardo Gonz&aacute;lez
