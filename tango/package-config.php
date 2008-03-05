@@ -65,6 +65,7 @@ $wp_smilies = array(
 	':emotion:'	=> 'face-emotional.png',
 	':party:'	=> 'face-festive.png',
   ':clown:'	=> 'face-funny.png',
+  ':worried:'	=> 'face-worried.png',
   'X('	=> 'face-furious.png',
 	':p'	=> 'face-naughty.png',
 	':P'	=> 'face-naughty.png',
