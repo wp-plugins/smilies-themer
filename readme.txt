@@ -1,7 +1,7 @@
 === Smilies Themer ===
 Tags: smilies, themes, emoticons
 Requires at least: 2.0
-Tested up to: 2.3
+Tested up to: 2.5
 Stable tag: trunk
 Donate link: http://rick.jinlabs.com/donate/
 
